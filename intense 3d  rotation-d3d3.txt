@@ -1,0 +1,85 @@
+Create a photorealistic 3D model of the artifact provided, utilizing photogrammetry techniques. The artifact's appearance should be captured in intricate detail from multiple angles, ensuring its accurate replication. For the input image provided, produce a 360-degree view of the artifact by taking multiple renders, each rotated by 60 degrees, starting from the front view and proceeding through the sides to the rear view.
+
+Each render should showcase the artifact's fine details and realistic textures, such as surface patterns, colors, and materials, which must be derived directly from the input image. Ensure that all variations in the artifact's design are preserved and reflected accurately, whether through shape, texture, or any specific markings.
+
+The 3D model should maintain a high level of precision in texture mapping, ensuring that reflections, lighting, and material properties (such as glossiness or matte finishes) match the real-world appearance of the artifact. The rotations should be smooth and consistent, allowing the viewer to experience the object in its entirety, making sure the details are consistent from every angle.
+
+Render this model in 12K resolution to guarantee clarity and sharpness of each texture and geometric detail. The final result should be a seamless and realistic 3D representation of the artifact, with all intricacies and variations carefully captured and faithfully rendered
+important note use the input image and in perfect symmetry and mirror show any artifact and the image is in isometric plane show the rotation of each side in orthogonal view to viewer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To create an accurate photorealistic 3D model of the artifact using photogrammetry techniques, we must first ensure that the artifact is captured in high detail from multiple angles. This process begins by capturing the artifact in a way that highlights its intricate surface textures, materials, and design. Photogrammetry will allow us to generate a high-resolution 3D model that is reflective of these fine details, ensuring the texture mapping closely aligns with the artifact's actual appearance.
+
+The 3D model should start with an orthogonal view, which offers a symmetrical representation of the artifact as seen from the front. The first render should provide a clear depiction of its geometric features and any visible markings, ensuring that all nuances are preserved. As we proceed, the artifact will be rotated in 60-degree increments, providing a full 360-degree view. Each render will showcase the artifact from various angles, including the left, right, rear, and top views, capturing all details with high fidelity.
+
+The 3D model's textures will be derived directly from the input image, reflecting the real-world material properties, such as glossiness, matte finishes, and surface patterns. Reflections and lighting should be accurately reproduced to match the artifact’s original visual characteristics. The rotation should be fluid and smooth, allowing for an immersive and consistent experience of the object from all angles. At a 12K resolution, each render should showcase the smallest details, ensuring clarity and precision in every texture and geometric feature, preserving the artifact’s original form and integrity.
+
+
+
+
+To create an accurate photorealistic 3D model of the artifact using photogrammetry techniques, we must first ensure that the artifact is captured in high detail from multiple angles. This process begins by capturing the artifact in a way that highlights its intricate surface textures, materials, and design. Photogrammetry will allow us to generate a high-resolution 3D model that is reflective of these fine details, ensuring the texture mapping closely aligns with the artifact's actual appearance.
+
+The 3D model should start with an orthogonal view, which offers a symmetrical representation of the artifact as seen from the front. The first render should provide a clear depiction of its geometric features and any visible markings, ensuring that all nuances are preserved. As we proceed, the artifact will be rotated in 60-degree increments, providing a full 360-degree view. Each render will showcase the artifact from various angles, including the left, right, rear, and top views, capturing all details with high fidelity.
+
+The 3D model's textures will be derived directly from the input image, reflecting the real-world material properties, such as glossiness, matte finishes, and surface patterns. Reflections and lighting should be accurately reproduced to match the artifact’s original visual characteristics. The rotation should be fluid and smooth, allowing for an immersive and consistent experience of the object from all angles. At a 12K resolution, each render should showcase the smallest details, ensuring clarity and precision in every texture and geometric feature, preserving the artifact’s original form and integrity.
+
+
+
+
+i think final and bewst prompt
+
+
+
+To create an accurate photorealistic 3D model of the artifact using photogrammetry techniques, we must first ensure that the artifact is captured in high detail from multiple angles. This process begins by capturing the artifact in a way that highlights its intricate surface textures, materials, and design. Photogrammetry will allow us to generate a high-resolution 3D model that is reflective of these fine details, ensuring the texture mapping closely aligns with the artifact's actual appearance.
+
+The 3D model should start with an orthogonal view, which offers a symmetrical representation of the artifact as seen from the front. The first render should provide a clear depiction of its geometric features and any visible markings, ensuring that all nuances are preserved. As we proceed, the artifact will be rotated in 60-degree increments, providing a full 360-degree view. Each render will showcase the artifact from various angles, including the left, right, rear, and top views, capturing all details with high fidelity.
+
+The 3D model's textures will be derived directly from the input image, reflecting the real-world material properties, such as glossiness, matte finishes, and surface patterns. Reflections and lighting should be accurately reproduced to match the artifact’s original visual characteristics. The rotation should be fluid and smooth, allowing for an immersive and consistent experience of the object from all angles. At a 12K resolution, each render should showcase the smallest details, ensuring clarity and precision in every texture and geometric feature, preserving the artifact’s original form and integrity.
+important note : use the input image and do an rotation to view it at plain sight orthogonally to view side views left right and four sides with intricate precision
+
+
+
+
+To create an accurate photorealistic 3D model of the artifact using photogrammetry techniques, we must first ensure that the artifact is captured in high detail from multiple angles. This process begins by capturing the artifact in a way that highlights its intricate surface textures, materials, and design. Photogrammetry will allow us to generate a high-resolution 3D model that is reflective of these fine details, ensuring the texture mapping closely aligns with the artifact's actual appearance.
+
+The 3D model should start with an orthogonal view, which offers a symmetrical representation of the artifact as seen from the front. The first render should provide a clear depiction of its geometric features and any visible markings, ensuring that all nuances are preserved. As we proceed, the artifact will be rotated in 60-degree increments, providing a full 360-degree view. Each render will showcase the artifact from various angles, including the left, right, rear, and top views, capturing all details with high fidelity.
+
+The 3D model's textures will be derived directly from the input image, reflecting the real-world material properties, such as glossiness, matte finishes, and surface patterns. Reflections and lighting should be accurately reproduced to match the artifact’s original visual characteristics. The rotation should be fluid and smooth, allowing for an immersive and consistent experience of the object from all angles. At a 12K resolution, each render should showcase the smallest details, ensuring clarity and precision in every texture and geometric feature, preserving the artifact’s original form and integrity.
+important note : use the input image and do an rotation to view it at plain sight orthogonally to view side views left right and four sides with intricate precision
+
+
+
+
+
+To create an accurate photorealistic 3D model of the artifact using photogrammetry techniques, we must first ensure that the artifact is captured in high detail from multiple angles. This process begins by capturing the artifact in a way that highlights its intricate surface textures, materials, and design. Photogrammetry will allow us to generate a high-resolution 3D model that is reflective of these fine details, ensuring the texture mapping closely aligns with the artifact's actual appearance.
+
+The 3D model should start with an orthogonal view, which offers a symmetrical representation of the artifact as seen from the front. The first render should provide a clear depiction of its geometric features and any visible markings, ensuring that all nuances are preserved. As we proceed, the artifact will be rotated in 60-degree increments, providing a full 360-degree view. Each render will showcase the artifact from various angles, including the left, right, rear, and top views, capturing all details with high fidelity.
+
+The 3D model's textures will be derived directly from the input image, reflecting the real-world material properties, such as glossiness, matte finishes, and surface patterns. Reflections and lighting should be accurately reproduced to match the artifact’s original visual characteristics. The rotation should be fluid and smooth, allowing for an immersive and consistent experience of the object from all angles. At a 12K resolution, each render should showcase the smallest details, ensuring clarity and precision in every texture and geometric feature, preserving the artifact’s original form and integrity.
+important note : use the input image and do an rotation to view it at plain sight orthogonally to view side views left right and four sides with intricate precision
+
+
+
+To create an accurate photorealistic 3D model of the artifact using photogrammetry techniques, we must first ensure that the artifact is captured in high detail from multiple angles. This process begins by capturing the artifact in a way that highlights its intricate surface textures, materials, and design. Photogrammetry will allow us to generate a high-resolution 3D model that is reflective of these fine details, ensuring the texture mapping closely aligns with the artifact's actual appearance.
+
+The 3D model should start with an orthogonal view, which offers a symmetrical representation of the artifact as seen from the front. The first render should provide a clear depiction of its geometric features and any visible markings, ensuring that all nuances are preserved. As we proceed, the artifact will be rotated in 60-degree increments, providing a full 360-degree view. Each render will showcase the artifact from various angles, including the left, right, rear, and top views, capturing all details with high fidelity.
+
+The 3D model's textures will be derived directly from the input image, reflecting the real-world material properties, such as glossiness, matte finishes, and surface patterns. Reflections and lighting should be accurately reproduced to match the artifact’s original visual characteristics. The rotation should be fluid and smooth, allowing for an immersive and consistent experience of the object from all angles. At a 12K resolution, each render should showcase the smallest details, ensuring clarity and precision in every texture and geometric feature, preserving the artifact’s original form and integrity.
+important note : use the input image and do an rotation to view it at plain sight orthogonally to view side views left right and four sides with intricate precision
+
+
+
+
+A meticulously crafted 360-degree photogrammetry sequence, capturing every 60-degree angle, seamlessly integrates the provided artifact input image. Each step enhances and accurately renders the front view, ensuring consistency across all sides. The process progresses through the four side views, maintaining precise symmetry and straightening the object as required, especially when dealing with isometric projections. This rotation captures every angle from the front to the left, rear, and right views, while preserving the intricate design on all sides. The result is a flawlessly designed 3D object, adorned with realistic textures derived from the input image. Every side mirrors the same intricate design, ensuring the consistency of geometric features and surface details. The final model is cohesive, solid, and visually stunning, perfectly aligned with the original input, showcasing a harmonious blend of technology and artistry.
